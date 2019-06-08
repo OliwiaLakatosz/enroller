@@ -1,0 +1,10 @@
+#DIR
+venv/
+.vscode/
+__pycache__/
+
+#FILES
+*.sh
+*.pyc
+
+settings.py
